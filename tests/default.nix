@@ -160,6 +160,7 @@ in import nmtSrc {
     ./modules/programs/git-cliff
     ./modules/programs/git-credential-oauth
     ./modules/programs/git-worktree-switcher
+    ./modules/programs/glow
     ./modules/programs/go
     ./modules/programs/gpg
     ./modules/programs/gradle

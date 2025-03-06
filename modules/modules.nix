@@ -115,6 +115,7 @@ let
     ./programs/git-worktree-switcher.nix
     ./programs/git.nix
     ./programs/gitui.nix
+    ./programs/glow.nix
     ./programs/gnome-shell.nix
     ./programs/gnome-terminal.nix
     ./programs/go.nix
